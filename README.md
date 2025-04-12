@@ -11,8 +11,9 @@ Collections of templates for App developing
 
 ## Details
 
-<details open> 
-  <summary id="express-standard"> express-standard  </summary>
+<details open>
+  <summary id="express-standard"> <b><a href="./templates/express-standard">express-standard</b> </a> </summary>
+  </br>
 
   这个框架包含了以下特性：
   - 安全防护（Helmet）
